@@ -4,4 +4,4 @@
 feature_engineering
 HW05-Copy*
 __pycache__/
-*.pkl
+!*.pkl

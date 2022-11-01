@@ -1,2 +1,7 @@
 /.DS_Store
 /.ipynb_checkpoints
+*.bak
+feature_engineering
+HW05-Copy*
+__pycache__/
+!*.pkl
